@@ -1,0 +1,6 @@
+{
+  "name": "DocuEncode - Customer Data & Document Scanner",
+  "description": "Intelligent customer encoding system with Gemini 3.8 Flash multimodal extraction for handwritten forms, scanned PDFs, images, and camera captures with split-screen verification.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
